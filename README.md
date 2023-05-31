@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hola, mi nombre es Marcos Lopez
+- - -
+![Lobo-blanco](https://github.com/ProgramadorMLopez/mlopez/assets/92063108/259f678c-d3f5-42b4-8ec7-d999d827ba42)
+ ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 <!--
 **ProgramadorMLopez/ProgramadorMLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
