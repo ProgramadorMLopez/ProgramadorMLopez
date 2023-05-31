@@ -11,7 +11,7 @@ Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX 
 ( https://codermex.netlify.app/ )
 <br>
 <br>
-![](https://img.shields.io/badge/https%3A%2F%2Fcodermex.netlify.app%2F-En%20Proceso-green)
+![](https://img.shields.io/badge/Estado-En%20Proceso-green)
 
 
 
