@@ -1,6 +1,7 @@
 # Hola, mi nombre es Marcos Lopez
 - - -
-![Lobo-blanco](https://github.com/ProgramadorMLopez/mlopez/assets/92063108/259f678c-d3f5-42b4-8ec7-d999d827ba42)
+![Lobo-blanco](https://github.com/ProgramadorMLopez/ProgramadorMLopez/assets/92063108/345de153-2934-49dd-9675-dacfe247cee3)
+
  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 <!--
