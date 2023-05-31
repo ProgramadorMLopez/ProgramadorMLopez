@@ -8,7 +8,7 @@ Analista IT
 - ⚡ Dato curioso: Me encanta la tecnologia, me gusta los juegos de pc, stremear, jugar al futbol y correr
 
 Actualmente estoy realizando mi primer pagina web personal llamada CODERMEX, le dejare el link donde subi gratuitamente
-mi pagina ( https://codermex.netlify.app/ )  !https://img.shields.io/badge/Estado-Desarrollando-green
+mi pagina ( https://codermex.netlify.app/ )  ![a](https://img.shields.io/badge/Estado-Desarrollando-green)
 
 
 
