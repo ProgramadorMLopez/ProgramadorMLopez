@@ -7,7 +7,8 @@ Analista IT
 - 😄 Pronombres: Mark, Marquitos, Negro
 - ⚡ Dato curioso: Me encanta la tecnologia, me gusta los juegos de pc, stremear, jugar al futbol y correr
 
-Actualmente estoy realizando mi primer pagina web personal llamada CODERMEX ( https://codermex.netlify.app/ )
+Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX donde esta subido gratuitamente en Netlify 
+( https://codermex.netlify.app/ )
 <br>
 ![](https://img.shields.io/badge/https%3A%2F%2Fcodermex.netlify.app%2F-En%20Proceso-green)
 
