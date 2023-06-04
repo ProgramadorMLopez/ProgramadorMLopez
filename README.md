@@ -21,10 +21,10 @@ Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX 
 [![SQLSERVER](https://img.shields.io/badge/SQLSERVER-FFFB00?style=for-the-badge&labelColor=101010)]()
 [![VB6](https://img.shields.io/badge/vb6-white?style=for-the-badge&labelColor=000000)]()
 [![Python](https://img.shields.io/badge/PYTHON-fddf68?style=for-the-badge&logo=labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&labelColor=101010)]()
 [![DJango](https://img.shields.io/badge/DJANGO-green?style=for-the-badge&labelColor=101010)]()
 [![Html](https://img.shields.io/badge/HTML-FB6D04?style=for-the-badge&labelColor=101010)]()
 [![Css](https://img.shields.io/badge/CSS-0453FB?style=for-the-badge&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&labelColor=101010)]()
 [![Boostrap](https://img.shields.io/badge/BOOSTRAP-8304FB?style=for-the-badge&labelColor=101010)]()
 [![vscode](https://img.shields.io/badge/VISUALCODE-098BC7?style=for-the-badge&labelColor=101010)]()
 
