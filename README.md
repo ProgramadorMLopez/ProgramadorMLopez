@@ -18,9 +18,9 @@ Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MLopez-blue)](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/)
 <br>
 ## Tecnologías:
-[![SQLSERVER](https://img.shields.io/badge/SQLSERVER-e39417?style=for-the-badge&labelColor=101010)]()
+[![SQLSERVER](https://img.shields.io/badge/SQLSERVER-FFFB00?style=for-the-badge&labelColor=101010)]()
 [![VB6](https://img.shields.io/badge/vb6-white?style=for-the-badge&labelColor=000000)]()
-[![Python](https://img.shields.io/badge/PYTHON-orange?style=for-the-badge&logo=labelColor=101010)]()
+[![Python](https://img.shields.io/badge/PYTHON-fddf68?style=for-the-badge&logo=labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&labelColor=101010)]()
 [![DJango](https://img.shields.io/badge/DJANGO-green?style=for-the-badge&labelColor=101010)]()
 [![Html](https://img.shields.io/badge/HTML-FB6D04?style=for-the-badge&labelColor=101010)]()
