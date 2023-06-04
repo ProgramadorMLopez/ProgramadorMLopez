@@ -20,6 +20,7 @@ Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![M](https://img.shields.io/badge/M-47A248?style=for-the-badge&logo=m&logoColor=white&labelColor=101010)]()
 
  
