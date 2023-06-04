@@ -12,6 +12,7 @@ Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX 
 <br>
 <br>
 ![](https://img.shields.io/badge/Estado-En%20Proceso-green)
+Likeding ![](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/)
 
 
 
