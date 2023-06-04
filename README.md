@@ -15,8 +15,8 @@ Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX 
 <br>
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
-[![YouTube](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/)]
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/)
+
 
 
 
