@@ -15,7 +15,7 @@ Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX 
 <br>
 
 
-[![YouTube](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/)](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/)
+[![YouTube](https://img.shields.io/badge/LinkedIn-MLopez-blue)](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/)
 
 
 
