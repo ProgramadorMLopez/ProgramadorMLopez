@@ -23,9 +23,9 @@ Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX 
 [![Python](https://img.shields.io/badge/PYTHON-orange?style=for-the-badge&logo=labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&labelColor=101010)]()
 [![DJango](https://img.shields.io/badge/DJANGO-green?style=for-the-badge&labelColor=101010)]()
-[![Html](https://img.shields.io/badge/HTML-yellow?style=for-the-badge&labelColor=101010)]()
-[![Css](https://img.shields.io/badge/CSS-yellow?style=for-the-badge&labelColor=101010)]()
-[![Boostrap](https://img.shields.io/badge/Boostrap-yellow?style=for-the-badge&labelColor=101010)]()
+[![Html](https://img.shields.io/badge/HTML-FB6D04?style=for-the-badge&labelColor=101010)]()
+[![Css](https://img.shields.io/badge/CSS-0453FB?style=for-the-badge&labelColor=101010)]()
+[![Boostrap](https://img.shields.io/badge/Boostrap-8304FB?style=for-the-badge&labelColor=101010)]()
 
 
 
