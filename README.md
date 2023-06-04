@@ -16,6 +16,7 @@ Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX 
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MLopez-blue)](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)][(https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/))
 <br>
 ## Tecnologías:
 [![SQLSERVER](https://img.shields.io/badge/SQLSERVER-FFFB00?style=for-the-badge&labelColor=101010)]()
