@@ -9,8 +9,8 @@ Analista IT
 
 Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX donde esta subido gratuitamente en Netlify 
 ( https://codermex.netlify.app/ )
-
 <br>
+
 ![](https://img.shields.io/badge/Estado-En%20Proceso-green)
 <br>
 
