@@ -9,10 +9,10 @@ Analista IT
 
 Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX donde esta subido gratuitamente en Netlify 
 ( https://codermex.netlify.app/ )
-
 <br>
 ![](https://img.shields.io/badge/Estado-En%20Proceso-green)
 <br>
+
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MLopez-blue)](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/)
 <br>
