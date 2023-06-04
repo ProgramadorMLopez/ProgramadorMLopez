@@ -19,7 +19,7 @@ Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX 
 <br>
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
-[![SQLSERVER](https://img.shields.io/badge/SQLSERVER-yellow?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
+[![SQLSERVER](https://img.shields.io/badge/SQLSERVER-#e39417?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
 
  
