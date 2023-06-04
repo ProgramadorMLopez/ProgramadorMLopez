@@ -26,6 +26,7 @@ Actualmente estoy realizando mi primer pagina web personal denomminada CODERMEX 
 [![Html](https://img.shields.io/badge/HTML-FB6D04?style=for-the-badge&labelColor=101010)]()
 [![Css](https://img.shields.io/badge/CSS-0453FB?style=for-the-badge&labelColor=101010)]()
 [![Boostrap](https://img.shields.io/badge/BOOSTRAP-8304FB?style=for-the-badge&labelColor=101010)]()
+[![vscode](https://img.shields.io/badge/VISUALCODE-098BC7?style=for-the-badge&labelColor=101010)]()
 
  
 
